@@ -1,0 +1,10 @@
+name: PlayerBounty
+main: bounty.george.me.Bounty
+version: 1.0
+description: >
+             DaChiimps's PlayerBounty Plugin
+commands:
+    bounty:
+        description: Set a bounty
+    bounties:
+        description: View player bounties
