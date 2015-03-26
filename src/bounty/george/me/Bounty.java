@@ -57,7 +57,7 @@ public class Bounty extends JavaPlugin implements Listener {
 	    	updateScoreboard(Bukkit.getOfflinePlayer("No Bounties"), 0);
 	    }
 	  
-	  String currency;
+	  static String currency;
 	  int maxBounty;
 	  int minBounty;
 
@@ -454,6 +454,10 @@ public class Bounty extends JavaPlugin implements Listener {
 				}
 			}
 		}
+	}
+
+	public static String getCurrency() {
+		return currency;
 	}
 	
 
