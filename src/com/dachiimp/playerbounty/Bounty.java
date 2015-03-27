@@ -63,6 +63,7 @@ public class Bounty extends JavaPlugin implements Listener {
 
 
 	  
+	  
 	  private void checkConfig() {
 		  Configuration cfg = this.getConfig();
 		  if(cfg.getString("Currency") == null) {

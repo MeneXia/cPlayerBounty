@@ -19,6 +19,7 @@ public class BountyAPI {
     
     
     
+    
 	/*
 	 * @param Add a bounty to a specified player with the arguments of player, bounty (integer), and whether to broadcast the bounty update (boolean - true/false) (Returns new bounty).
 	 */
