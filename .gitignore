@@ -1,7 +1,4 @@
-/bin/
-/.idea
 /.settings/
-/.classpath
-/.gitignore
+/bin/
 /.project
-/PlayerBounty.iml
+/.classpath

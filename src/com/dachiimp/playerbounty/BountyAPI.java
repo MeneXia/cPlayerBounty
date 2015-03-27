@@ -15,7 +15,7 @@ public class BountyAPI {
     File file = new File("plugins/PlayerBounty/bounties.dat");
     YamlConfiguration inv = YamlConfiguration.loadConfiguration(file);
 	
-    // API
+    // Bounty API
     
     
     

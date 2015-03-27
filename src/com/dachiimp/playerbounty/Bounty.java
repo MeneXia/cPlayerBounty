@@ -148,6 +148,13 @@ public class Bounty extends JavaPlugin implements Listener {
           objective.setDisplaySlot(DisplaySlot.SIDEBAR);
 	  }
 	  
+	  
+	  
+	  // Events 
+	  
+	  
+	  
+	  
 	  @EventHandler
 	  public void onJoin(PlayerJoinEvent e) {
 		  Player player = e.getPlayer();
