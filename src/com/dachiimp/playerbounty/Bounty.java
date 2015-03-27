@@ -1,4 +1,4 @@
-package bounty.george.me;
+package com.dachiimp.playerbounty;
 
 import java.io.File;
 import java.io.IOException;

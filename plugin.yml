@@ -1,5 +1,5 @@
 name: PlayerBounty
-main: bounty.george.me.Bounty
+main: com.dachiimp.playerbounty.Bounty
 version: 1.0
 description: >
              DaChiimps's PlayerBounty Plugin
