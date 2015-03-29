@@ -8,3 +8,4 @@ commands:
         description: Set a bounty
     bounties:
         description: View player bounties
+depend: [Vault]
